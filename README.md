@@ -8,7 +8,7 @@
 # Overview
 I'm a Japanese engineer. Used programs is C# and C++. likes Windows and Android development.
 
-# Skills
+# Skill
 ## Business
 [![Skills](https://skillicons.dev/icons?i=cs,cpp,c,dotnet&theme=dark&perline=8)](https://skillicons.dev)
 
