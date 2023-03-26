@@ -15,7 +15,7 @@ I'm a Japanese engineer. Used programs is C# and C++. likes Windows and Android 
 ## Hobby
 [![Skills](https://skillicons.dev/icons?i=py,go,html,css,js,jquery,java&theme=dark&perline=8)](https://skillicons.dev)
 
-## Others
+## Other
 [![Skills](https://skillicons.dev/icons?i=github,git,visualstudio,vscode,eclipse&theme=dark&perline=8)](https://skillicons.dev)
 
 # Language
