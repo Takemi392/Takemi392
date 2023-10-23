@@ -13,10 +13,10 @@ I'm a Japanese engineer. Used programs is C# and C++, likes Windows and Android 
 [![Skills](https://skillicons.dev/icons?i=cs,cpp,c,dotnet&theme=dark&perline=8)](https://skillicons.dev)
 
 ## Hobby
-[![Skills](https://skillicons.dev/icons?i=py,go,html,css,js,jquery,java&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,go,html,css,js,jquery,php,java&theme=dark&perline=8)](https://skillicons.dev)
 
 ## Other
-[![Skills](https://skillicons.dev/icons?i=github,git,visualstudio,vscode,eclipse&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=github,git,visualstudio,vscode,eclipse,wordpress&theme=dark&perline=8)](https://skillicons.dev)
 
 # Language
 + Japanese
