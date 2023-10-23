@@ -6,7 +6,7 @@
 | Twitter | https://twitter.com/Takemi392 |
 
 # Overview
-I'm a Japanese engineer. Used programs is C# and C++. likes Windows and Android development.
+I'm a Japanese engineer. Used programs is C# and C++, likes Windows and Android development.
 
 # Skill
 ## Business
