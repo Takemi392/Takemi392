@@ -24,10 +24,11 @@ I'm a Japanese engineer. Used programs is C# and C++, likes Windows and Android 
 + English
   + Read documents only
 
-# Qualification
+# Certifications
 | | |
 |:--------|:---|
-| Microsoft MCP Windows 7 構成 | 2013/04/12  |
+| Foundational C# with Microsoft | 2023/12/30 |
+| Microsoft MCP Windows 7 構成 | 2013/04/12 |
 | 情報処理技術者試験 | 2011/08/05 |
 | Oracle Database 11g Bronze | 2010/06/07 |
 | SJC-P Standard Edition 5.0 | 2009/08/29 |
