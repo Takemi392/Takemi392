@@ -24,7 +24,7 @@ I'm a Japanese engineer. Used programs is C# and C++, likes Windows and Android 
 + English
   + Read documents only
 
-# Certifications
+# Certification
 | | |
 |:--------|:---|
 | Foundational C# with Microsoft | 2023/12/30 |
