@@ -3,7 +3,7 @@
 |:--------|:---|
 | Name    | Takemi |
 | GitHub  | https://github.com/Takemi392 |
-| X       | https://twitter.com/Takemi392 |
+| X       | https://x.com/Takemi392 |
 
 # Overview
 I'm a Japanese engineer. Used programs is C# and C++, likes Windows and Android development.
